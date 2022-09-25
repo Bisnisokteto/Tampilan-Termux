@@ -1,7 +1,7 @@
 # Install
 Follow The Steps Below!
 
-```python2
+> python2
 > pkg install python2 -y
 > pkg install git -y
 > cd /sdcard
